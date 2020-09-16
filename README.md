@@ -1,6 +1,6 @@
-# Cross-Sell-Prediction-Hackathon
+## Cross-Sell-Prediction-Hackathon
 
-Problem Statement -- 
+### Problem Statement -- 
 
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
@@ -16,7 +16,7 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 
 
 
-Data Dictionary -- 
+### Data Dictionary -- 
 
 id: Unique ID for the customer
 Gender: Gender of the customer
